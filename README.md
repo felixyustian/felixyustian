@@ -21,8 +21,6 @@ My focus is turning **machine learning research into deployable edge and robotic
 - 📊 **Data Visualization Pipeline** – real-time telemetry dashboard for robotics data streams  
 - 🤖 **Automation Toolkit** – open-source collection of ML utilities for hardware systems  
 
-*(See pinned repositories below for selected works.)*
-
 ---
 
 ### 💡 What Drives Me
