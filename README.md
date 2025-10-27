@@ -25,7 +25,7 @@ My focus is turning **machine learning research into deployable edge and robotic
 
 ### 💡 What Drives Me
 I’m passionate about **bridging theory and implementation** — guiding ideas from algorithm design to hardware realization.  
-Currently exploring opportunities to contribute to **Samsung Research Indonesia’s AI and Data innovations**, building intelligent systems for the next generation of automation and IoT.
+Currently exploring opportunities to contribute to **society and research institutions**, building intelligent systems for the next generation of automation and IoT.
 
 ---
 
