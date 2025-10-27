@@ -32,3 +32,4 @@ Currently exploring opportunities to contribute to **Samsung Research Indonesia�
 📫 **Connect with me**
 - LinkedIn → [linkedin.com/in/felixsetiono](https://linkedin.com/in/felixsetiono)  
 - Email → [felixyustian@gmail.com](felixyustian@gmail.com)
+- Phone -> +62-812-8404-7345
