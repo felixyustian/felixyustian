@@ -11,7 +11,7 @@ My focus is turning **machine learning research into deployable edge and robotic
 - **Applied Deep Learning:** Computer vision, CNNs, Transformers, optimization, inference acceleration  
 - **Embedded AI & Robotics:** Edge deployment, microcontroller integration, control algorithms  
 - **Data Engineering:** ETL pipelines, data cleaning, visualization dashboards (Python, Pandas, Plotly)  
-- **Software & Tools:** Python, C/C++, TensorFlow, PyTorch, OpenCV, ROS, Docker, FastAPI  
+- **Software & Tools:** Python, C/C++, TensorFlow, PyTorch, OpenCV, ROS, Docker, FastAPI, SQL, Tableau, Google Cloud Platform (GCP), Amazon Web Services (AWS), Figma
 
 ---
 
