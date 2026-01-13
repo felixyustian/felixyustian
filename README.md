@@ -29,6 +29,11 @@ Currently exploring opportunities to contribute to **society and research instit
 
 ---
 
+### 🔒 Professional Work & Portfolio 
+Due to strict Non-Disclosure Agreements (NDA) and data privacy policies with my previous research partners and clients, I cannot showcase my professional/commercial source codes here. The repositories below represent my personal R&D explorations and open-source contributions.
+
+---
+
 📫 **Connect with me**
 - LinkedIn → [linkedin.com/in/felixsetiono](https://linkedin.com/in/felixsetiono)  
 - Email → [felixyustian@gmail.com](felixyustian@gmail.com)
