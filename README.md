@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Felix Yustian Setiono
 
-### Senior AI Engineer • Robotics • Embedded Systems • Data & Visualization • Cloud Platform Engineer & Enthusiast
+### Senior AI Engineer • Robotics • Mechatronics • Embedded Systems • Data & Visualization • Cloud Platform Engineer & Enthusiast
 
 I build intelligent systems that connect **AI, data, and hardware** — combining deep learning, embedded control, and real-time data pipelines.  
 My focus is turning **machine learning research into deployable edge and robotics solutions** that perform efficiently in real-world environments.
