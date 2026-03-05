@@ -36,27 +36,21 @@ A Senior AI Engineer with a rare dual-expertise: architecting low-level Edge AI 
 
 ### Google Prompt Engineer Trainer (VILT)
 **SmartBridge Indonesia** | *February 2026 - Present* | *Remote* |
-Selected as a Lead Trainer to deliver a comprehensive 30-hour Virtual Instructor-Led Training (VILT) on advanced Prompt Engineering for the "Last Mile Indonesia" program.
+Lead Trainer to deliver a comprehensive 30-hour Virtual Instructor-Led Training (VILT) on advanced Prompt Engineering for the "Last Mile Indonesia" program.
 
-Key Responsibilities & Achievements:
-
-Teaching advanced AI reasoning frameworks, including Chain-of-Thought (CoT), Tree-of-Thought (ToT), and Self-Consistency to enhance LLM output accuracy.
-
-Educating participants on Prompt Architecture (RTCFC Framework) and deep-level model parameters (Temperature, Top-P, Top-K).
-
-Guiding developers through "Vibe Coding" and intent-based problem solving using the Gemini ecosystem.
-
-Specializing in Cost-Accuracy trade-offs, tokenization mechanics, and red-teaming/adversarial prompting for enterprise-grade AI safety.
+- Key Responsibilities & Achievements:
+* Teaching advanced AI reasoning frameworks, including Chain-of-Thought (CoT), Tree-of-Thought (ToT), and Self-Consistency to enhance LLM output accuracy.
+* Educating participants on Prompt Architecture (RTCFC Framework) and deep-level model parameters (Temperature, Top-P, Top-K).
+* Guiding developers through "Vibe Coding" and intent-based problem solving using the Gemini ecosystem.
+* Specializing in Cost-Accuracy trade-offs, tokenization mechanics, and red-teaming/adversarial prompting for enterprise-grade AI safety.
 
 ### AI Image Data Contributor (Freelance)
-**SoftAge Information Technology Limited** | *February 2026 - Present* | *Remote* |
-Collaborating on the SrotPix Image Data Collection Project to generate high-quality, structured visual datasets for AI model training.
+**SoftAge Information Technology Limited** | *February 2026 - Present* | *Remote* | Freelance AI Image Data Contributor
 
-​Producing complex image sequences across specialized categories, including Character Consistency, Nested Objects, and Object Interactions.
-
-​Ensuring strict adherence to dataset QA guidelines, managing metadata consistency, lighting continuity, and precise spatial framing to reduce rejection rates.
-
-​Gaining hands-on experience in the foundational data-gathering phase of the Generative AI lifecycle.
+* Collaborating on the SrotPix Image Data Collection Project to generate high-quality, structured visual datasets for AI model training.
+* ​Producing complex image sequences across specialized categories, including Character Consistency, Nested Objects, and Object Interactions.
+* ​Ensuring strict adherence to dataset QA guidelines, managing metadata consistency, lighting continuity, and precise spatial framing to reduce rejection rates.
+* ​Gaining hands-on experience in the foundational data-gathering phase of the Generative AI lifecycle.
 
 ### Freelance Software and AI Engineer
 **PostWork AI** | *October 2025 - Present* | *Remote* |
@@ -104,10 +98,10 @@ Gained practical experience in automotive manufacturing processes and quality co
 ## Skills
 
 ### Core Technical Skills
-•	Computer Vision & Edge AI: CNNs, Inference Acceleration, OpenCV, Edge Deployment (Microcontrollers/IoT).
-•	Generative AI & LLMs: Transformers, Agentic Workflows, Structured JSON Parsing, Prompt Engineering.
-•	Data & Backend Engineering: Python, FastAPI, ETL Pipelines, Data Visualization (Pandas, Plotly).
-•	Systems & Infrastructure: C/C++, PyTorch, TensorFlow, ROS, Docker.
+•	Computer Vision & Edge AI: CNNs, Inference Acceleration, OpenCV, Edge Deployment (Microcontrollers/IoT)
+•	Generative AI & LLMs: Transformers, Agentic Workflows, Structured JSON Parsing, Prompt Engineering
+•	Data & Backend Engineering: Python, FastAPI, ETL Pipelines, Data Visualization (Pandas, Plotly)
+•	Systems & Infrastructure: C/C++, PyTorch, TensorFlow, ROS, Docker
 
 
 ### Cloud Platforms
