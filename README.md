@@ -98,10 +98,10 @@ Gained practical experience in automotive manufacturing processes and quality co
 ## Skills
 
 ### Core Technical Skills
-•	Computer Vision & Edge AI: CNNs, Inference Acceleration, OpenCV, Edge Deployment (Microcontrollers/IoT)
-•	Generative AI & LLMs: Transformers, Agentic Workflows, Structured JSON Parsing, Prompt Engineering
-•	Data & Backend Engineering: Python, FastAPI, ETL Pipelines, Data Visualization (Pandas, Plotly)
-•	Systems & Infrastructure: C/C++, PyTorch, TensorFlow, ROS, Docker
+*	Computer Vision & Edge AI: CNNs, Inference Acceleration, OpenCV, Edge Deployment (Microcontrollers/IoT)
+*	Generative AI & LLMs: Transformers, Agentic Workflows, Structured JSON Parsing, Prompt Engineering
+*	Data & Backend Engineering: Python, FastAPI, ETL Pipelines, Data Visualization (Pandas, Plotly)
+*	Systems & Infrastructure: C/C++, PyTorch, TensorFlow, ROS, Docker
 
 
 ### Cloud Platforms
