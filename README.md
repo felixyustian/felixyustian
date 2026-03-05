@@ -38,7 +38,7 @@ A Senior AI Engineer with a rare dual-expertise: architecting low-level Edge AI 
 **SmartBridge Indonesia** | *February 2026 - Present* | *Remote* |
 Lead Trainer to deliver a comprehensive 30-hour Virtual Instructor-Led Training (VILT) on advanced Prompt Engineering for the "Last Mile Indonesia" program.
 
-- Key Responsibilities & Achievements:
+Key Responsibilities & Achievements:
 * Teaching advanced AI reasoning frameworks, including Chain-of-Thought (CoT), Tree-of-Thought (ToT), and Self-Consistency to enhance LLM output accuracy.
 * Educating participants on Prompt Architecture (RTCFC Framework) and deep-level model parameters (Temperature, Top-P, Top-K).
 * Guiding developers through "Vibe Coding" and intent-based problem solving using the Gemini ecosystem.
