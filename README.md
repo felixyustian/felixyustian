@@ -777,6 +777,7 @@ I’m passionate about **bridging theory and implementation** — guiding ideas 
 
 Currently exploring opportunities to contribute to **society and research institutions**, building intelligent systems for the next generation of automation and IoT.
 
+I am also driven by **first-principles engineering**—bridging the gap between mathematical algorithm design and physical hardware realization. I thrive on solving complex bottlenecks in Edge environments, ensuring that AI models do not just perform well on paper, but execute flawlessly under strict latency and memory constraints in the real world.
 
 
 ---
