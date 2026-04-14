@@ -672,6 +672,9 @@ Gained practical experience in automotive manufacturing processes and quality co
 ### ⚡ Edge AI & High-Performance Computing (Highlight)
 * **[PPE Compliance Monitoring System: AI Edge Architecture](https://github.com/felixyustian/PPE_Detection_TensorRT)**: Enterprise-grade Machine Learning architecture designed for Edge Computing (NVIDIA Jetson). Features dynamic batching, TensorRT FP16 quantization with zero mAP degradation, PyTorch Forward Hooks for predictive tensor analysis (Layer Collapse mitigation), and an asynchronous FastAPI backend capable of handling 15 simultaneous 1080p RTSP streams under strict latency budgets (≤ 66.7 ms).
 
+### 🔬 Fine-Grained Computer Vision & Scientific AI
+* **[Plankton Detection & Counting Case Study](https://github.com/felixyustian/ai-plankton-case-study)**: Micro-object detection and taxonomic classification solution for microscopic images. Focuses on handling extreme class imbalance and population counting accuracy (Dense Object Counting).
+
 ### 🤖 Robotics & Autonomous Systems
 
 * **[Team SIRI - KRTI 2024](https://github.com/felixyustian/krti2024_scu_unika)**: Autonomous Hexarotor UAV control system using Raspberry Pi and PyTorch-based computer vision for the Indonesian Flying Robot Contest.
