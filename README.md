@@ -268,14 +268,17 @@ Gained practical experience in automotive manufacturing processes and quality co
 
 ## 🚀 Featured Projects
 
-###  🔬 Enterprise AI Agentic Workflow: Banking Risk & Compliance Engine
-* **[Enterprise AI Agentic Workflow: Banking Risk & Compliance Engine](https://github.com/felixyustian/enterprise_ai_context_engine_fraud_risk_marketing)**: Enterprise AI Context Engine: Unifying Risk, Fraud, & Marketing Analytics using LangChain, LangGraph, Pandas, and Scikit-Learn plugins. Deployment using Module Context Protocol (MCP) implementation and UI/UX integration. 
+### ⚡Know-Your-Customer (KYC) Vision System — Go + Python Computer Vision Microservice
+* **[Know-Your-Customer (KYC) Vision System](https://github.com/felixyustian/kyc-vision-system)**: A polyglot KYC verification microservice (Go + Python) integrating OpenCV face detection, Tesseract OCR for Indonesian ID card field extraction, and a JWT-secured REST gateway — deployed via Docker Compose with a full CI pipeline.
 
-### ⚡ Edge AI & High-Performance Computing (Highlight)
+### ⚡ Edge AI & High-Performance Computing
 * **[PPE Compliance Monitoring System: AI Edge Architecture](https://github.com/felixyustian/PPE_Detection_TensorRT)**: Enterprise-grade Machine Learning architecture designed for Edge Computing (NVIDIA Jetson). Features dynamic batching, TensorRT FP16 quantization with zero mAP degradation, PyTorch Forward Hooks for predictive tensor analysis (Layer Collapse mitigation), and an asynchronous FastAPI backend capable of handling 15 simultaneous 1080p RTSP streams under strict latency budgets (≤ 66.7 ms).
 
 ### 🔬 Fine-Grained Computer Vision & Scientific AI
 * **[Plankton Detection & Counting Case Study](https://github.com/felixyustian/ai-plankton-case-study)**: Micro-object detection and taxonomic classification solution for microscopic images. Focuses on handling extreme class imbalance and population counting accuracy (Dense Object Counting).
+
+###  🔬 Enterprise AI Agentic Workflow: Banking Risk & Compliance Engine
+* **[Enterprise AI Agentic Workflow: Banking Risk & Compliance Engine](https://github.com/felixyustian/enterprise_ai_context_engine_fraud_risk_marketing)**: Enterprise AI Context Engine: Unifying Risk, Fraud, & Marketing Analytics using LangChain, LangGraph, Pandas, and Scikit-Learn plugins. Deployment using Module Context Protocol (MCP) implementation and UI/UX integration. 
 
 ### 🤖 Robotics & Autonomous Systems
 
@@ -289,7 +292,7 @@ Gained practical experience in automotive manufacturing processes and quality co
 
 ### 🧠 Artificial Intelligence & LLMs
 
-* **[Synapse](https://github.com/felixyustian/synapse)**: An AI-powered meeting assistant that automatically generates summaries and extracts action items using LLaMA.
+* **[EduSense AI](https://github.com/felixyustian/edusenseai)**: Production-grade KYC document verification system built with a polyglot microservice architecture. Integrates a high-concurrency Go API Gateway with a Python Computer Vision service (FastAPI, OpenCV, YOLOv8, Tesseract) for robust Indonesian KTP extraction and liveness checks.
 
 * **[LangGraph Agent Test](https://github.com/felixyustian/langgraph_agent_test)**: Experimental implementation of cyclic, stateful AI agents on Google Cloud Platform.
 
