@@ -355,7 +355,9 @@ Gained practical experience in automotive manufacturing processes and quality co
 
 * **JuaraGCP Season 12 - 2026 by Google Developer Group Indonesia** - Participant
 
+* **Coding & Algorithm Tournament 2026 (https://catournament.org/)** - Semi-Finalist
 
+* **Juara VibeCoding 2026 by Google Developer Group Indonesia** - Participant
 
 ---
 
