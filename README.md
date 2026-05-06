@@ -278,7 +278,10 @@ Gained practical experience in automotive manufacturing processes and quality co
 * **[Plankton Detection & Counting Case Study](https://github.com/felixyustian/ai-plankton-case-study)**: Micro-object detection and taxonomic classification solution for microscopic images. Focuses on handling extreme class imbalance and population counting accuracy (Dense Object Counting).
 
 ###  🔬 Enterprise AI Agentic Workflow: Banking Risk & Compliance Engine
-* **[Enterprise AI Agentic Workflow: Banking Risk & Compliance Engine](https://github.com/felixyustian/enterprise_ai_context_engine_fraud_risk_marketing)**: Enterprise AI Context Engine: Unifying Risk, Fraud, & Marketing Analytics using LangChain, LangGraph, Pandas, and Scikit-Learn plugins. Deployment using Module Context Protocol (MCP) implementation and UI/UX integration. 
+* **[Enterprise AI Agentic Workflow: Banking Risk & Compliance Engine](https://github.com/felixyustian/enterprise_ai_context_engine_fraud_risk_marketing)**: Enterprise AI Context Engine: Unifying Risk, Fraud, & Marketing Analytics using LangChain, LangGraph, Pandas, and Scikit-Learn plugins. Deployment using Module Context Protocol (MCP) implementation and UI/UX integration.
+
+### 🔬 AI-based Meeting Assistant
+* **[Synapse — AI-Powered Meeting Assistant](https://github.com/felixyustian/synapse)**: A full-stack, deployment-ready AI meeting assistant; paste any meeting transcript and receive an executive summary, action items with owners and deadlines, key decisions, and a complete follow-up email draft — all powered by Claude.
 
 ### 🤖 Robotics & Autonomous Systems
 
@@ -288,8 +291,6 @@ Gained practical experience in automotive manufacturing processes and quality co
 
 * **[Team SAURO - KRTMI 2024](https://github.com/felixyustian/krtmi2024_scu_unika)**: Autonomous Trash Collector Robot combining Arduino motor control with Raspberry Pi vision.
 
-
-
 ### 🧠 Artificial Intelligence & LLMs
 
 * **[EduSense AI](https://github.com/felixyustian/edusenseai)**: Production-grade KYC document verification system built with a polyglot microservice architecture. Integrates a high-concurrency Go API Gateway with a Python Computer Vision service (FastAPI, OpenCV, YOLOv8, Tesseract) for robust Indonesian KTP extraction and liveness checks.
@@ -298,33 +299,21 @@ Gained practical experience in automotive manufacturing processes and quality co
 
 * **[Gemini Chatbot v2](https://github.com/felixyustian/gemini-chatbot.-v2)**: A Node.js web application integrating Google's Gemini API for interactive conversations.
 
-
-
 ### 💻 Web & Tools
 
 * **[Next.js AI Chatbot](https://github.com/felixyustian/nextjs-ai-chatbot)**: A modern chatbot UI built with Next.js 14, Vercel AI SDK, and OpenAI streaming.
 
 * **[Django Quiz App](https://github.com/felixyustian/django_quizapp)**: An interactive quiz platform powered by Django and AI question generation.
 
-
-
 ---
 
-
-
 ## 📈 GitHub Stats
-
-
 
 ![Felix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felixyustian&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixyustian&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
 ---
-
-
 
 ## Achievements & Awards
 
@@ -364,8 +353,6 @@ Gained practical experience in automotive manufacturing processes and quality co
 
 ---
 
-
-
 ## Professional Memberships
 
 * IEEE Regular Member
@@ -378,11 +365,7 @@ Gained practical experience in automotive manufacturing processes and quality co
 
 * Python Software Foundation (PSF) Member
 
-
-
 ---
-
-
 
 ### 💡 What Drives Me
 
@@ -390,11 +373,7 @@ I’m passionate about **bridging theory and implementation** — guiding ideas 
 
 Currently exploring opportunities to contribute to **society and research institutions**, building intelligent systems for the next generation of automation and IoT.
 
-
-
 ---
-
-
 
 📫 **Connect with me**
 
@@ -404,19 +383,11 @@ Currently exploring opportunities to contribute to **society and research instit
 
 # 👋 Hi, I'm Felix Yustian Setiono
 
-
-
 ### Senior AI & Vision Engineer | LLM & Agentic Systems Architect
-
-
 
 A Senior AI Engineer with a rare dual-expertise: architecting low-level Edge AI systems using C/C++ and NVIDIA GPU optimization, while designing intelligent workflows using LLMs and Generative AI. Proven track record of translating complex machine learning research into real-world operational solutions, bridging the gap between hardware integration, automated data pipelines, and advanced AI models.
 
-
-
 ---
-
-
 
 * **Email:** felixyustian@gmail.com
 
@@ -432,11 +403,7 @@ A Senior AI Engineer with a rare dual-expertise: architecting low-level Edge AI 
 
 * **ORCiD:** https://orcid.org/0000-0002-5240-0466
 
-
-
 ---
-
-
 
 ### 🔬 Research & Technical Focus
 
@@ -448,11 +415,7 @@ A Senior AI Engineer with a rare dual-expertise: architecting low-level Edge AI 
 
 - **Software & Tools:** Python, C/C++, TensorFlow, PyTorch, OpenCV, ROS, Docker, FastAPI, SQL, Tableau, Google Cloud Platform (GCP), Amazon Web Services (AWS), Figma
 
-
-
 ---
-
-
 
 ### 🚀 Projects & Highlights
 
@@ -464,15 +427,9 @@ A Senior AI Engineer with a rare dual-expertise: architecting low-level Edge AI 
 
 - 🤖 **Automation Toolkit** – open-source collection of ML utilities for hardware systems  
 
-
-
 ---
 
-
-
 ## Work Experience
-
-
 
 ### Google Prompt Engineer Trainer (VILT)
 
