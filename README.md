@@ -6,7 +6,7 @@ A Senior AI Engineer with a rare dual expertise: architecting low-level **Edge A
 
 ---
 
-[![My Portfolio Profile Video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/L-YUNmVDats)
+[![My Portfolio Profile Video]](https://youtu.be/L-YUNmVDats)
 
 ---
 
