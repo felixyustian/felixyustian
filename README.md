@@ -135,8 +135,13 @@ Languages        │ Indonesian & Javanese (Native) · English — TOEFL iBT 80 
 
 ## 💼 Work Experience
 
+### Technical Mentor (Part-time) 
+** Garuda Hacks - Garuda Hacks 7.0** | *July 2026 – Present* | Remote, Indonesia 
+- Provide technical guidance on system design, AI/ML integration, and agentic-workflow deployment to hackathon teams under rapid-prototyping time constraints.
+- Advise on technical viability and early-stage architecture to help teams avoid structural technical debt.
+
 ### Google Prompt Engineering Trainer (VILT)
-**Smartbridge International — Last Mile Indonesia Program** | *February 2026 – Present* | Remote
+**Smartbridge International — Last Mile Indonesia Program** | *February 2026 – Present* | Remote, India
 
 Lead Trainer for a 30-hour Virtual Instructor-Led Training (VILT) on advanced Prompt Engineering, delivered to developer cohorts across Indonesia's national 'Last Mile' digital upskilling program.
 
