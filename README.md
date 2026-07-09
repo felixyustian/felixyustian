@@ -136,7 +136,7 @@ Languages        │ Indonesian & Javanese (Native) · English — TOEFL iBT 80 
 ## 💼 Work Experience
 
 ### Technical Mentor (Part-time) 
-** Garuda Hacks - Garuda Hacks 7.0** | *July 2026 – Present* | Remote, Indonesia 
+**Garuda Hacks - Garuda Hacks 7.0** | *July 2026 – Present* | Remote, Indonesia 
 - Provide technical guidance on system design, AI/ML integration, and agentic-workflow deployment to hackathon teams under rapid-prototyping time constraints.
 - Advise on technical viability and early-stage architecture to help teams avoid structural technical debt.
 
