@@ -135,10 +135,18 @@ Languages        │ Indonesian & Javanese (Native) · English — TOEFL iBT 80 
 
 ## 💼 Work Experience
 
-### Technical Mentor (Part-time) 
-**Garuda Hacks - Garuda Hacks 7.0** | *July 2026 – Present* | Remote, Indonesia 
+### Technical Mentor - Garuda Hacks 7.0
+**Garuda Hacks - Garuda Hacks 7.0** | *July 2026 – Present* | Remote, Indonesia
+
 - Provide technical guidance on system design, AI/ML integration, and agentic-workflow deployment to hackathon teams under rapid-prototyping time constraints.
 - Advise on technical viability and early-stage architecture to help teams avoid structural technical debt.
+
+### Facilitator - Google Skills Arcade 2026
+**Dicoding Indonesia — Google Skills Arcade 2026** | *July 2026 – Present* | Remote, Indonesia
+
+- Mentor national tech talent through Google Cloud hands-on labs on cloud architecture and infrastructure.
+- Review updated cloud-infrastructure modules and translate them into practical technical guidance for mentees.
+- Facilitate troubleshooting discussions and community networking within the Google Skills developer ecosystem.
 
 ### Google Prompt Engineering Trainer (VILT)
 **Smartbridge International — Last Mile Indonesia Program** | *February 2026 – Present* | Remote, India
