@@ -185,6 +185,19 @@ Languages        │ Indonesian & Javanese (Native) · English — TOEFL iBT 80 
 - **[felixyustian.github.io](https://github.com/felixyustian/felixyustian.github.io)**
   This profile on GitHub Pages, with a [live projects page](https://felixyustian.github.io/projects.html) fed by the GitHub API. Personal website: [felixsetiono.my.id](https://felixsetiono.my.id).
 
+### 🔒 Private Builds
+
+Recent apps and tools in private repositories (no public code):
+
+- **NexaPaw HQ** — a 3D virtual office where my AI coding agents work, each with its own room and routine.
+- **NexaPaw Buddy** — a small desktop and phone companion that shows what my Claude Code sessions are doing and opens the NexaPaw Assistant chat.
+- **Link2Mac** — links an Android phone to a Mac: notifications, messages, files, the clipboard and screen mirroring.
+- **Notch Pulse** — animates the Mac's camera notch, Dynamic Island style, when charging, getting notifications and locking.
+- **VOD Downloader** — download videos or MP3s from popular video sites and get AI summaries of them, on macOS, Windows and Android.
+- **BatteryRing** — a battery and notification light ring around the phone's front camera, with charging animations.
+- **Glass Weather** — glass-style clock and weather widgets for the Android home screen.
+- **FaceUnlock for macOS** — Face ID-style face unlock for the Mac, using its built-in camera.
+
 ---
 
 ## 💼 Work Experience
