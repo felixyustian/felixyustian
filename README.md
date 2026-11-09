@@ -106,6 +106,10 @@ Languages        │ Indonesian & Javanese (Native) · English — TOEFL iBT 80 
 
 ### 🧠 Generative AI & Agentic Systems
 
+- **[ai-pm-workshop](https://github.com/felixyustian/ai-pm-workshop)** *(MurzEdu Workshop 2026)*
+  Build Your AI Project Manager: a bilingual (EN/ID) workshop on agentic AI for project managers, with slides, presenter and audience handouts, and a hands-on multi-agent PM assistant that runs fully locally with no API keys.
+  `Python · CrewAI · Ollama · Llama 3.1`
+
 - **[enterprise_ai_context_engine_fraud_risk_marketing](https://github.com/felixyustian/enterprise_ai_context_engine_fraud_risk_marketing)**
   Enterprise AI Context Engine powered by **LangGraph + MCP + Gemini API**, unifying AML/Fraud detection, Credit Risk underwriting, and Marketing Analytics via cyclic multi-agent orchestration, dynamic tool registration, and a human-readable explainability layer for compliance.
   `Python · LangChain · LangGraph · MCP · Gemini API · Pandas · Scikit-Learn · GCP`
@@ -195,8 +199,9 @@ Recent apps and tools in private repositories (no public code):
 - **Notch Pulse** — animates the Mac's camera notch, Dynamic Island style, when charging, getting notifications and locking.
 - **VOD Downloader** — download videos or MP3s from popular video sites and get AI summaries of them, on macOS, Windows and Android.
 - **BatteryRing** — a battery and notification light ring around the phone's front camera, with charging animations.
+- **Lumens Launcher** — a fast, privacy-first Android launcher that can bring over your Nova Launcher home screen.
 - **Glass Weather** — glass-style clock and weather widgets for the Android home screen.
-- **FaceUnlock for macOS** — Face ID-style face unlock for the Mac, using its built-in camera.
+- **FaceUnlock for macOS** — Face ID-style face unlock for the Mac, using its built-in camera, and it warns you when someone else is looking at your screen.
 
 ---
 
